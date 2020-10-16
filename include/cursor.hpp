@@ -1,0 +1,6 @@
+#ifndef PNGPLUS_CURSOR_HPP
+#define PNGPLUS_CURSOR_HPP
+
+
+
+#endif

@@ -12,6 +12,9 @@ RM = ${AMP}rm -f
 
 PNGPLUS_NAMES = 
 PNGPLUS_NAMES += pngplus
+PNGPLUS_NAMES += color
+PNGPLUS_NAMES += cursor
+PNGPLUS_NAMES += image
 
 PNGPLUS_OBJ_NAMES = ${addsuffix .o, ${PNGPLUS_NAMES}}
 PNGPLUS_OBJS = ${addprefix build/obj/, ${PNGPLUS_OBJ_NAMES}}
